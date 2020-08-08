@@ -1,0 +1,130 @@
+img{
+
+    width: 10cm;
+    height: 10cm;
+}
+#button1{
+    border-radius: 150px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+}
+#button1:hover{
+
+    background-color: #178a1b;
+
+}
+
+#button2{
+    border-radius: 150px;
+    background-color: lightcoral; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+
+}
+#button2:hover{
+    background-color: rgb(202, 86, 86); 
+
+}
+
+#button3{
+
+    border-radius: 150px;
+    background-color: blueviolet; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+#button3:hover{
+
+    background-color: rgb(90, 20, 155); 
+}
+
+#button4
+{
+    border-radius: 150px;
+background-color: #907163; 
+border: none;
+color: white;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+#button4:hover
+{
+    background-color: #6b4533;
+   
+}
+
+#button5
+{
+    border-radius: 150px;
+ 
+border: none;
+background: #2196F3;
+  color: white;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+#button5:hover{
+    background: #032744;
+
+}
+#text-search{
+    float: left;
+    padding: 15px;
+    font-size: 17px;
+    border: none;
+    
+    width: 80%;
+    background: white;
+
+}
+#button-search{
+    
+  width: 20%;
+  padding: 15px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+
+}
+#text-title{
+
+    animation-play-state: initial;
+    animation-name: inherit;
+}
